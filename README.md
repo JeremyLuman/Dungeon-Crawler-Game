@@ -1,5 +1,3 @@
-# Python
-
 <h1>Dungeon Crawler Game</h1>
 <a href="https://github.com/JeremyLuman/Python/wiki/READ-ME:-Dungeon-Crawl-Game">READ ME</a>
 
