@@ -1,0 +1,14 @@
+									
+									
+									
+									
+									
+		Find5GoldRoom		OrcSoldierRoom					
+		EmptyCavePath		EmptyCavePath					
+		EmptyCavePath	GiantSpiderRoom	FindDaggerRoom	EmptyCavePath				
+			Find5GoldRoom		EmptyCavePath	EmptyCavePath	FindBroadSwordRoom		
+OrcSoldierRoom	FindDaggerRoom	EmptyCavePath	EmptyCavePath	EmptyCavePath	Find5GoldRoom		EmptyCavePath		
+	EmptyCavePath		StartingRoom				EmptyCavePath	EmptyCavePath	OgreRoom
+	Find5GoldRoom		EmptyCavePath		EmptyCavePath				Find50GoldRoom
+	EmptyCavePath	EmptyCavePath	EmptyCavePath	Find5GoldRoom	GiantSpiderRoom				LeaveCaveRoom
+									
